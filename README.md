@@ -41,3 +41,9 @@ const websites = [
 investigator.get(websites)  
 
 ```
+## GitHub
+https://github.com/alexbelloni/async_investigator
+
+-------------    
+<br/>  
+Alex Alves  
