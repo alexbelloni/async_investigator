@@ -15,7 +15,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.2.4"
+    "async_investigator": "^1.0.3",
+    "node-fetch": "^3.3.2"
   },
   "type": "module"
 }

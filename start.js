@@ -1,11 +1,4 @@
-# Async Investigator
-Async requests to scrap html websites  
-```
-npm i async_investigator  
-```
-## Use
-```
-import investigator from "async_investigator";  
+ import investigator from "async_investigator";  
   
 const websites = [  
     {  
@@ -39,15 +32,3 @@ const websites = [
 ]  
   
 investigator.get(websites)  
-
-```
-## Execution
-```
-node start.js
-```
-## GitHub
-https://github.com/alexbelloni/async_investigator
-
--------------    
-<br/>  
-Alex Alves  

@@ -4,6 +4,7 @@ const AsyncInvestigator = () => {
 
     function get(websites, callback) {
         const promises = websites.map(website => {
+            console.log(website.reason)
             return new Promise((resolve, reject) => {
                 fetch(website.url)
                     .then(s => s.text())
